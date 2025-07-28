@@ -94,7 +94,7 @@ GROUP BY seller_id, campaign_id;
 ---
 
 ## 📈 Role Fit
-✔ **Cross-functional work:** Partnered with BD, Marketing, and Ops.  
-✔ **Technical depth:** SQL, Excel, Tableau.  
-✔ **Business impact:** Linked insights directly to **ROI & seller retention**.  
-✔ **Clear storytelling:** Data → insights → actions → measurable impact.  
+- **Cross-functional work:** Partnered with BD, Marketing, and Ops.  
+- **Technical depth:** SQL, Excel, Tableau.  
+- **Business impact:** Linked insights directly to **ROI & seller retention**.  
+- **Clear storytelling:** Data → insights → actions → measurable impact.  
