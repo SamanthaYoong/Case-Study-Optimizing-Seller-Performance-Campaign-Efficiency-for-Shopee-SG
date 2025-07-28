@@ -22,7 +22,7 @@ Shopee SG’s marketing team noticed **flat campaign ROI** and **declining selle
 
 ## 📈 Approach
 
-### 1️⃣ Data Scoping & Cleaning
+###  Data Scoping & Cleaning
 - Pulled **6 months of campaign data** using **SQL** (tables: seller performance, campaign participation, voucher usage, transaction logs).  
 - Cleaned and joined datasets (handled nulls, normalized seller IDs, removed duplicates).  
 
@@ -32,19 +32,19 @@ FROM campaign_orders
 WHERE order_date BETWEEN '2024-01-01' AND '2024-06-30'
 GROUP BY seller_id, campaign_id;
 ```
-##  2️⃣ Automated Reporting Pipeline
+##   Automated Reporting Pipeline
 - Built **SQL script** to refresh weekly metrics (GMV, CTR, voucher redemption).  
 - Exported summary to **Google Sheets** for teams and created **Tableau dashboard** for real-time monitoring.  
 
 ---
 
-##  3️⃣ Funnel & Cohort Analysis
+##   Funnel & Cohort Analysis
 - Mapped seller journey: `Campaign Invite → Sign-Up → Campaign Participation → GMV uplift → Post-campaign retention`.  
 - Segmented sellers into **top performers, mid-tier, and drop-offs** to identify churn points.  
 
 ---
 
-##  4️⃣ Cross-Functional Collaboration
+##   Cross-Functional Collaboration
 - Partnered with **BD** for seller segmentation, **Marketing** for campaign messaging, and **Ops** for logistics alignment.  
 - Designed reporting flow from **backend (SQL)** → **processing layer** → **frontend (Tableau)**.  
 
