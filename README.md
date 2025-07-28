@@ -8,7 +8,7 @@
  
 ---
 
-## 🎯 Problem Statement
+## 📈 Problem Statement
 Shopee SG’s marketing team noticed **flat campaign ROI** and **declining seller engagement** in monthly promotions despite increased budget allocation.  
 
 **Key Issues Identified:**
@@ -20,7 +20,7 @@ Shopee SG’s marketing team noticed **flat campaign ROI** and **declining selle
 
 ---
 
-## 🎯 Approach
+## 📈 Approach
 
 ### 1️⃣ Data Scoping & Cleaning
 - Pulled **6 months of campaign data** using **SQL** (tables: seller performance, campaign participation, voucher usage, transaction logs).  
@@ -50,7 +50,7 @@ GROUP BY seller_id, campaign_id;
 
 ---
 
-## 🎯 Insights & Findings
+## 📈 Insights & Findings
 - **Insight 1:** Mid-tier sellers drove **55% of campaign GMV** but had **30% churn** after 2 campaigns.  
   ➡️ Needed clearer ROI proof and stronger incentives.  
 
@@ -65,17 +65,17 @@ GROUP BY seller_id, campaign_id;
 
 ---
 
-##  Recommendations & Impact
-✅ **Seller Segmentation Strategy**  
+## 📈 Recommendations & Impact
+➡️ **Seller Segmentation Strategy**  
 - Tiered incentives (e.g., bonus ad credits for mid-tier sellers) to reduce churn.  
 
-✅ **Data-Driven Communication Templates**  
+➡️ **Data-Driven Communication Templates**  
 - Added **performance snapshots** in seller emails → participation projected to rise **12%**.  
 
-✅ **Automated BI Stack**  
+➡️ **Automated BI Stack**  
 - Automation cut reporting time by **80%**, enabling near real-time decision-making.  
 
-✅ **Interactive Tableau Dashboard**  
+➡️ **Interactive Tableau Dashboard**  
 - Visualized GMV by seller tier, churn prediction, voucher ROI heatmap → used by BD & Marketing in weekly reviews.  
 
 ** Expected Results:**
@@ -85,16 +85,15 @@ GROUP BY seller_id, campaign_id;
 
 ---
 
-## 🎯 Tools & Skills Demonstrated
+## 📈 Tools & Skills Demonstrated
 - **SQL** – Data extraction, transformation, cohort analysis.  
-- **Python** – ETL automation, churn prediction model (logistic regression).  
 - **Tableau** – Visualization & stakeholder dashboards.  
 - **Excel/Google Sheets** – Ad-hoc reporting & presentation prep.  
 - **Business Storytelling** – Translated complex data into actionable insights.  
 
 ---
 
-## 🎯 Role Fit
+## 📈 Role Fit
 ✔ **Cross-functional work:** Partnered with BD, Marketing, and Ops.  
 ✔ **Technical depth:** SQL, Excel, Tableau.  
 ✔ **Business impact:** Linked insights directly to **ROI & seller retention**.  
