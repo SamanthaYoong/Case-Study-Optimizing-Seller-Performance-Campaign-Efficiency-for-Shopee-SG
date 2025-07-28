@@ -32,19 +32,19 @@ FROM campaign_orders
 WHERE order_date BETWEEN '2024-01-01' AND '2024-06-30'
 GROUP BY seller_id, campaign_id;
 ```
-##   Automated Reporting Pipeline
+###  Automated Reporting Pipeline
 - Built **SQL script** to refresh weekly metrics (GMV, CTR, voucher redemption).  
 - Exported summary to **Google Sheets** for teams and created **Tableau dashboard** for real-time monitoring.  
 
 ---
 
-##   Funnel & Cohort Analysis
+###  Funnel & Cohort Analysis
 - Mapped seller journey: `Campaign Invite → Sign-Up → Campaign Participation → GMV uplift → Post-campaign retention`.  
 - Segmented sellers into **top performers, mid-tier, and drop-offs** to identify churn points.  
 
 ---
 
-##   Cross-Functional Collaboration
+###  Cross-Functional Collaboration
 - Partnered with **BD** for seller segmentation, **Marketing** for campaign messaging, and **Ops** for logistics alignment.  
 - Designed reporting flow from **backend (SQL)** → **processing layer** → **frontend (Tableau)**.  
 
