@@ -4,7 +4,7 @@
 ---
 
 ## 📈 View Dashboard  
- [**View on Tableau Public**](https://public.tableau.com/app/profile/samantha.yoong/vizzes) In-Progress
+ [**View on Tableau Public**](https://public.tableau.com/app/profile/samantha.yoong/viz/OptimizingSellerPerformanceCampaignEfficiencyShopeeBISimulation/Sheet1#2) In-Progress
  
 ---
 
