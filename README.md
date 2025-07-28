@@ -3,6 +3,11 @@
 
 ---
 
+## 📈 View Dashboard  
+ [**View on Tableau Public**](https://public.tableau.com/app/profile/samantha.yoong/vizzes)
+ 
+---
+
 ## 🎯 Problem Statement
 Shopee SG’s marketing team noticed **flat campaign ROI** and **declining seller engagement** in monthly promotions despite increased budget allocation.  
 
