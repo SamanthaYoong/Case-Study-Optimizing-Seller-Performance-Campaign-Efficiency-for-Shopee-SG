@@ -3,11 +3,6 @@
 
 ---
 
-## 📈 View Dashboard  
- [**View on Tableau Public**](https://public.tableau.com/app/profile/samantha.yoong/viz/OptimizingSellerPerformanceCampaignEfficiencyShopeeBISimulation/Sheet1#2) In-Progress
- 
----
-
 ## 📈 Problem Statement
 Shopee SG’s marketing team noticed **flat campaign ROI** and **declining seller engagement** in monthly promotions despite increased budget allocation.  
 
