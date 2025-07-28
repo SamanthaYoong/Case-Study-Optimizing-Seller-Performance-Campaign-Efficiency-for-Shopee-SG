@@ -1,5 +1,6 @@
 #  Shopee Business Intelligence Case Study  
 **Role Target:** Data Analyst – SG Business Intelligence (Fresh Graduate Role)
+**View Dashboard:**  [**Click here**](https://public.tableau.com/app/profile/samantha.yoong/vizzes)
 
 ---
 
